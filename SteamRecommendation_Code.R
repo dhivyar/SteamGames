@@ -1,4 +1,4 @@
-## Zapier Assignment :: Steam Games Recommendation Engine
+## Steam Games Recommendation Engine
 ## Author: Dhivya R
 
 ## Read the data
